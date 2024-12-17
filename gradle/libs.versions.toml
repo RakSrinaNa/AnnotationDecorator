@@ -1,5 +1,5 @@
 [versions]
-lombok-version = "1.18.24"
+lombok-version = "1.18.36"
 jetbrains-annotations-version = "23.0.0"
 log4j2-version = "2.18.0"
 byte-buddy-version = "1.12.16"
