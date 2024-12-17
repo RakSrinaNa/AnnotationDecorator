@@ -1,7 +1,7 @@
 [versions]
 lombok-version = "1.18.36"
 jetbrains-annotations-version = "26.0.1"
-log4j2-version = "2.18.0"
+log4j2-version = "2.24.3"
 byte-buddy-version = "1.15.11"
 reflections-version = "0.10.2"
 jackson-version = "2.18.2"
